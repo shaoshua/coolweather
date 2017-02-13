@@ -52,7 +52,7 @@ public class WeatherActivity extends AppCompatActivity {
     private TextView carWashText;
     private TextView sportText;
 
-private SwipeRefreshLayout swipeRefresh;
+public SwipeRefreshLayout swipeRefresh;
     private String mWeatherId;
 
     private ImageView bingPicImg;
